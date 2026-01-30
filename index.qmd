@@ -2,31 +2,16 @@
 title: "Ruth Alison Clemens"
 bibliography: ./ref.bib
 ---
-Cultural theorist, educator, writer, and researcher with a background in literary analysis and groundbreaking historical research. Look into my eyes in @fig-test below to be automatically hypnotised [@Clemens2022].
+Cultural theorist, educator, writer, and researcher with a background in literary analysis and groundbreaking historical research.
 
-
-# nice website
-## i said nice website 
-### NICE WEBSITE 
-this is a *really* **really** ***really*** nice website 
-
-Reasons why it is nice:
-
-- i made it
-- need i say more???
-
-1. welcome 
-2. hello
-3. greetings
 
 # Research Interests
 
 - Critical perspectives on the materiality of language 
+- Transnationalism, multilingualism, and book history
 - The intersection of music, technology, and literature
 - Modernism and the avant-garde
-- I also translate [@alison2018making]
-
-
+- I also work as a literary translator from Dutch to English [@alison2018making]
 
 Check out my guest appearance on [Sounds Like Tufa, Radio Worm, 13 January 2026](https://www.mixcloud.com/radiowormrotterdam/sounds-like-tufa-w-marianna-maruyama-13012026/)
 
