@@ -1,5 +1,37 @@
 ---
-title: "About"
+title: "About me"
+about:
+  template: solana
+  image: "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/543/RuthClemens1.jpg"
+  image-width: 50%
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ruth-clemens/
 ---
 
-About this site
+:::{#hero-heading}
+
+Ruth Alison Clemens is a postdoctoral researcher at Leiden University
+
+## Education
+
+University of Leeds | United Kingdom
+PhD in Comparative Literature | Oct 2015 - Jan 2020
+
+University College London | United Kingdom
+MA in Comparative Literature | Oct 2014 - Sep 2015
+
+## Experience
+
+Leiden University | Postdoctoral Researcher | Aug 2024 - present
+
+Leiden University | Lecturer | Aug 2022 - Jul 2024
+
+University of Glasgow | Postdoctoral Research Assistant | Oct 2022 - Jun 2023
+
+Utrecht University | Lecturer | Jan 2019 - Jan 2023
+
+:::
+
