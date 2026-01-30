@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "About this site"
+    "text": "Below you can find examples of my work\n\nMy ongoing practice as an electro-acoustic musician\n Looking good!"
   },
   {
     "objectID": "index.html",
@@ -21,10 +21,10 @@
     "text": "i said nice website\n\nNICE WEBSITE\nthis is a really really really nice website\nReasons why it is nice:\n\ni made it\nneed i say more???\n\n\nwelcome\nhello\ngreetings"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Below you can find examples of my work\n\nMy ongoing practice as an electro-acoustic musician\n Looking good!"
+    "text": "About this site"
   }
 ]
